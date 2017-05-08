@@ -1,2 +1,2 @@
 # HW-Wireframe
-1st week's homework: HTML/CSS wireframe
+An HTML & CSS wireframe for a basic web page.
